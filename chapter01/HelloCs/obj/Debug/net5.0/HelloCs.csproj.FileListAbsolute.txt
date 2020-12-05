@@ -1,0 +1,15 @@
+/Users/mac/Documents/Web/dotnet/chapter01/HelloCs/bin/Debug/net5.0/HelloCs.deps.json
+/Users/mac/Documents/Web/dotnet/chapter01/HelloCs/bin/Debug/net5.0/HelloCs.runtimeconfig.json
+/Users/mac/Documents/Web/dotnet/chapter01/HelloCs/bin/Debug/net5.0/HelloCs.runtimeconfig.dev.json
+/Users/mac/Documents/Web/dotnet/chapter01/HelloCs/bin/Debug/net5.0/HelloCs.dll
+/Users/mac/Documents/Web/dotnet/chapter01/HelloCs/bin/Debug/net5.0/ref/HelloCs.dll
+/Users/mac/Documents/Web/dotnet/chapter01/HelloCs/bin/Debug/net5.0/HelloCs.pdb
+/Users/mac/Documents/Web/dotnet/chapter01/HelloCs/obj/Debug/net5.0/HelloCs.csprojAssemblyReference.cache
+/Users/mac/Documents/Web/dotnet/chapter01/HelloCs/obj/Debug/net5.0/HelloCs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/Web/dotnet/chapter01/HelloCs/obj/Debug/net5.0/HelloCs.AssemblyInfoInputs.cache
+/Users/mac/Documents/Web/dotnet/chapter01/HelloCs/obj/Debug/net5.0/HelloCs.AssemblyInfo.cs
+/Users/mac/Documents/Web/dotnet/chapter01/HelloCs/obj/Debug/net5.0/HelloCs.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/Web/dotnet/chapter01/HelloCs/obj/Debug/net5.0/HelloCs.dll
+/Users/mac/Documents/Web/dotnet/chapter01/HelloCs/obj/Debug/net5.0/ref/HelloCs.dll
+/Users/mac/Documents/Web/dotnet/chapter01/HelloCs/obj/Debug/net5.0/HelloCs.pdb
+/Users/mac/Documents/Web/dotnet/chapter01/HelloCs/obj/Debug/net5.0/HelloCs.genruntimeconfig.cache
